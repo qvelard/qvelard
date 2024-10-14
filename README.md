@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Quantum Machine learning**
 
-- 🌱 I’m currently learning **Quantum Machine Learning**
+- 🌱 I’m currently learning 
 
 - 📫 How to reach me **quentin.velard1@gmail.com**
 
