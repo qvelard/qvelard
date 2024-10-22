@@ -4,16 +4,14 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Quentin Velard</h1>
+<h1 align="center">Hi 👋, I'm </h1>
 <h3 align="center">A passionate Machine Learning Engineer from Paris, France.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Quantum Machine learning**
+- 🔭 I’m currently working on **Generation of Biomolecule by GAn and Diffusion models**
 
-- 🌱 I’m currently learning 
-
-- 📫 How to reach me **quentin.velard1@gmail.com**
+- 🌱 I’m currently learning VAE, GAN, Quantum machine learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
