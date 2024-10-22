@@ -4,7 +4,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm </h1>
+<h1 align="center">Hi 👋, </h1>
 <h3 align="center">A passionate Machine Learning Engineer from Paris, France.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
